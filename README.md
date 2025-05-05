@@ -1,2 +1,2 @@
 # Kaggle
-Collection of my public work for numerous  kaggle contests
+Collection and repository playground of my public work for various Kaggle competitions.
